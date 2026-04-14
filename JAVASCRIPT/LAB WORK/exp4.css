@@ -23,7 +23,11 @@ button{
 }
 
 button:hover{
+<<<<<<< HEAD
     background-color:darkblue;
+=======
+    background-color:rgb(25, 25, 154);
+>>>>>>> 30061f9 (fresh start)
 }
 
 #result{
