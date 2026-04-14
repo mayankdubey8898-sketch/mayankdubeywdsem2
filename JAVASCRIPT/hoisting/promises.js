@@ -9,4 +9,4 @@ const myPromise=new Promise((resolve,reject)=>{
 })
 
 myPromise
-.then
+.then 
